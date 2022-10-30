@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FuckAnyProblem from China.
 - 👀 I’m interested in ComputerVision and WxProgram.
-- 🌱 I’m currently learning tensorflow 2.6.
+- 🌱 I’m currently learning tensorflow 2.6 and C++.
+- 🆒 I’m preparing for postgraduate exams.
 
 <!---
 FuckAnyProblem/FuckAnyProblem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
