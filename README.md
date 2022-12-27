@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuckAnyProblem from China.
 - 👀 I’m interested in ComputerVision and WxProgram.
-- 🌱 I’m currently learning tensorflow 2.6 and C++.
+- 🌱 I’m currently learning tensorflow2 and C++.
 - 🆒 I’m preparing for postgraduate exams.
 
 <!---
