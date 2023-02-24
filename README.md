@@ -5,5 +5,5 @@
 ![:name](https://count.getloli.com/get/@:FuckAnyProblem?theme=asoul)
 
 - 👋 Hi, I’m oxy6kzzz.
-- 👀 I’m interested in Computer Vision.
-- 🌱 I’m currently learning tensorflow2 and C++.
+- 👀 I’m learning Qwik.
+- 😍 I want to be a Full Stack Developer.
